@@ -8,10 +8,10 @@ Focado em ensinar, o modo Study é ideal para seu aprendizado ativo.
 
 Nele, você não terá só as respostas, mas sim:
 
-o raciocínio por trás delas
-exemplos funcionais e analogias de fácil entendimento
-perguntas reflexivas para fixação de conhecimento
-abordagem que parte do nível mais básico, progredindo de acordo com o dev
+O raciocínio por trás delas
+Exemplos funcionais e analogias de fácil entendimento
+Perguntas reflexivas para fixação de conhecimento
+Abordagem que parte do nível mais básico, progredindo de acordo com o dev
 
 Prompt:
 
