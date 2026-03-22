@@ -13,7 +13,7 @@ Nele, você não terá só as respostas, mas sim:
 - Perguntas reflexivas para fixação de conhecimento
 - Abordagem que parte do nível mais básico, progredindo de acordo com o dev
 
-Prompt: prompts/prompt-study.md
+Prompt: https://github.com/cauasilva27/First-copilot-training/edit/main/README.md
 
 ❓ Ask
 
@@ -24,7 +24,7 @@ Nele, você poderá:
 - perguntar algo sobre seu projeto ou código
 - abordar uma questão de uma parte específica, como um arquivo ou erro
 
-Prompt: prompts/prompt-ask.md
+Prompt: 
 
 📝 Plan
 
@@ -35,7 +35,7 @@ O modo **Plan** é ideal para lhe dar um direcionamento ao longo do seu projeto.
 - ferramentas/tecnologias que melhor lhe atendem
 - resultado esperado
 
-Prompt: prompts/prompt-plan.md
+Prompt: 
 
 🤖 Agent
 
@@ -45,4 +45,4 @@ O modo **Agent** age como um **executor**, não só explicando, mas agindo e tom
 - alterando estruturas
 - e entregando códigos prontos para serem implementados
 
-Prompt: prompts/prompt-agent.md
+Prompt: 
