@@ -13,7 +13,7 @@ Nele, você não terá só as respostas, mas sim:
 - Perguntas reflexivas para fixação de conhecimento
 - Abordagem que parte do nível mais básico, progredindo de acordo com o dev
 
-Prompt: https://github.com/cauasilva27/First-copilot-training/edit/main/README.md
+Prompt: prompts/prompt-study.md
 
 ❓ Ask
 
