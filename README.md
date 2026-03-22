@@ -1,8 +1,8 @@
-🕹 Modos do Copiloto (Study, Ask, Plan e Agent)
+🕹 **Modos do Copiloto (Study, Ask, Plan e Agent)**
 
 Através dos diferentes modos do copiloto, você poderá aumentar sua produtividade e aprendizado, basta escolher qual ferramenta mais se adequa à sua necessidade na hora de elaborar seu projeto.
 
-📖 Study
+📖 **Study**
 
 Focado em ensinar, o modo **Study** é ideal para seu **aprendizado ativo**.
 
@@ -15,7 +15,7 @@ Nele, você não terá só as respostas, mas sim:
 
 **Prompt**: [prompts/prompt-study.md](prompts/prompt-study.md)
 
-❓ Ask
+❓ **Ask**
 
 O modo **Ask** é pensado para responder suas dúvidas e lhe ajudar a compreender o que está acontecendo, sem alterar ou implementar algo em seu código ou projeto. 
 
@@ -26,7 +26,7 @@ Nele, você poderá:
 
 **Prompt**: [prompts/prompt-ask.md](prompts/prompt-ask.md)
 
-📝 Plan
+📝 **Plan**
 
 O modo **Plan** é ideal para lhe dar um direcionamento ao longo do seu projeto. Nele, será estabelecido um:
 
@@ -37,7 +37,7 @@ O modo **Plan** é ideal para lhe dar um direcionamento ao longo do seu projeto.
 
 **Prompt**: [prompts/prompt-plan.md](prompts/prompt-plan.md)
 
-🤖 Agent
+🤖 **Agent**
 
 O modo **Agent** age como um **executor**, não só explicando, mas agindo e tomando iniciativa junto de você. Ao definir um objetivo, ele irá operar dentro do seu projeto:
 
